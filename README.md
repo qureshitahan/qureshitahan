@@ -28,13 +28,13 @@ I'm an analytics professional passionate about applying my skills in data scienc
 - **University of Central Punjab** | Lahore, Pakistan
   - Bachelors in Electrical Engineering
 
-### Projects 📚
-*Describe a couple of key projects that highlight your skills and achievements, similar to the format used in the provided example.*
-
 ### Interests 🚀
 - 💡 Technology and Innovation
-- 📊 Financial Markets
 - 🌐 Digital Marketing
+- 📊 Data-Driven Decision Making
+- 🤖 Machine Learning and AI
+- 🌐 Big Data and Analytics
+- 📈 Financial Analytics
 
 ### Let's Connect! 🔗
 I'm always open to discussing new opportunities, collaborations, and ideas in the world of data and analytics.
