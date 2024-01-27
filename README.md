@@ -8,7 +8,7 @@ I'm an analytics professional passionate about applying my skills in data scienc
 
 
 ### About Me 🌟
-- 🏦 Analyst and Data Enthusiast with a diverse background spanning financial trading, bonds, currencies, investments, and e-commerce.
+- 🏦 Analyst and Data Enthusiast with a diverse background spanning financial trading, currencies, investments, and e-commerce.
 - 🎓 M.S. in Applied Business Analytics from Boston University.
 - 🛠 Skills: C++, Python, R, SQL, Data Visualization, A/B Testing, Machine Learning, Adobe XD, Photoshop, Shopify.
 - 🤖 Passionate about harnessing the power of data to find innovative solutions to complex problems.
